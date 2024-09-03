@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hello world</string>
+    <string name="English">Hello World!</string>
+
+<!--    <string name="cilked">I am cilked</string>-->
+    <string name="welcome">Welcome!</string>
+    <string name="english">clik me!</string>
+    <string name="cilked">oh yeah!</string>
+
+
+</resources>
