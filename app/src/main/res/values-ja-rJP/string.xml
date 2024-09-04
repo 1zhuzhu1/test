@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ハローワールド</string>
+    <string name="English">ハローワールド</string>
+
+    <!--    <string name="cilked">I am cilked</string>-->
+    <string name="welcome">ようこそ！</string>
+    <string name="english">クリックして!</string>
+    <string name="cilked">ああ、そうです！</string>
+
+</resources>
